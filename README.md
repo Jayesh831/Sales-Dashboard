@@ -4,7 +4,7 @@
 
 Our goal is to study retail sales data for the coffee shop. By analyzing this data, we hope to learn things that will help us improve how the coffee shop runs.
 
-******Suggested approach******
+******Suggested approach:******
 
 **Sales by day and hour**: How do sales change depending on the day of the week and time of day?
 
